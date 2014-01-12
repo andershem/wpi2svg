@@ -1,0 +1,5 @@
+Python script for converting WACOM Inkling files to SVG
+
+For usage:
+python wpi2svg.py -h
+
